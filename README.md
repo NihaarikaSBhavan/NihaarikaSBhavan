@@ -5,9 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=NihaarikaSBhavan&label=Profile%20Views&color=6a5acd&style=flat-square" alt="profile views" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Engineer%20with%20a%20vision%20for%20impact.;AI%20inspired%20🧠%20+%20Backend%20driven%20💻;From%20MUNs%20to%20Machine%20Learning.&font=Fira%20Code&center=true&width=440&height=45&color=6a5acd&vCenter=true&pause=1000&size=22" />
-</p>
+
 
 ---
 
